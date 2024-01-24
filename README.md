@@ -12,7 +12,6 @@
 
 - Ubuntu18.04; CUDA11.1;Python 3.8.10
 
-    ```
 
 - python环境:
 
